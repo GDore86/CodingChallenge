@@ -1,0 +1,78 @@
+body {
+  background-image: url("img/sfondoprincipale.jpg");
+background-size: cover;
+}
+
+.master {
+  margin-left: 500px;
+  margin-right: 500px;
+  padding: 5%;
+  background-color: #FFFFFF44;
+  border-radius: 40px;
+}
+
+
+/* logo e slogan */
+
+.logoslogan {
+text-align: center;
+}
+
+.logo {
+  width: 20%;
+}
+
+.slogan{
+  color: lime;
+  font-size: 50px;
+}
+
+
+/* <!-- prenotazioni e luci --> */
+.prenotazionieluci {
+  text-align: center;
+  background-color: lime;
+  height: 50%;
+  padding: 15px;
+}
+
+/* selezione monopattino */
+
+
+p {
+  font-size: 25px;
+}
+
+.selezionemonopattino {
+  display: inline-block;
+  color: white;
+  width: 75%;
+}
+
+.arancione {
+  width: 35%;
+  height: 30px;
+  border-radius: 40px;
+}
+
+.monopattini {
+  display: inline-block;
+  color: white;
+  font-size: 35px;
+}
+
+.verde {
+  width: 100%;
+  height: 30px;
+  border-radius: 40px;
+}
+
+.barracarica3 {
+  width: 20%;
+}
+
+.rosso {
+  width: 150%;
+  height: 30px;
+  border-radius: 40px;
+}
